@@ -778,7 +778,7 @@ ol {
   top: 0;
   height: 100%;
   width: 100%;
-  background: url(../img/team/team-hover.png);
+  background: url(team-hover.png);
   content: "";
   z-index: -1;
 }
@@ -828,7 +828,7 @@ ol {
 
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/blog/blog-1.jpg);
+  background: url(blog-1.jpg);
   background-size: cover;
 }
 
@@ -1349,7 +1349,7 @@ ol {
 
 .blog__item:hover {
   border: 1px solid transparent !important;
-  background: url(../img/blog/blog-2.jpg) no-repeat;
+  background: url(blog-2.jpg) no-repeat;
   background-size: cover;
 }
 
